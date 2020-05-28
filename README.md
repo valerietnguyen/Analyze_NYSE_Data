@@ -12,3 +12,8 @@ Interpret the measures of central tendency and spread (mean, median, standard de
 use a combination of Excel or Google Sheets functions (e.g., IF statements, INDEX and MATCH, calculating descriptive statistics with the IF statement, drop downs, data validation, VLOOKUP).
 Analyze and forecast financial business metrics using Excel or Google Sheets.
 Create visualizations of a business metric and use Excel or Google Sheets to create a financial forecast model.
+
+# Tools
+
+- Excel
+- Keynote
